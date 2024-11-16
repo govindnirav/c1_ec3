@@ -98,4 +98,6 @@ dependencies:
   - zipp=3.21.0=pyhd8ed1ab_0
   - zlib=1.2.13=h18a0788_1
   - zstd=1.5.6=hfb09047_0
+  - pip:
+      - pydoe==0.3.8
 prefix: /Users/govindniravrao/miniconda3/envs/c1_ec3
